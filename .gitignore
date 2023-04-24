@@ -2,4 +2,8 @@
 
 
 #ignore
-dump/images/*
+dump/*
+.gitignore
+robots.txt
+logo*
+manifest.json
